@@ -75,11 +75,6 @@
             <artifactId>aws-java-sdk-stepfunctions</artifactId>
             <version>${aws-sdk-stepfunctions.version}</version>
         </dependency>
-        <dependency>
-            <groupId>net.sf.jasperreports</groupId>
-            <artifactId>jasperreports</artifactId>
-            <version>6.5.1</version>
-        </dependency>
     </dependencies>
 
     <build>
